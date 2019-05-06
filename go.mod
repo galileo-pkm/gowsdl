@@ -1,1 +1,1 @@
-module github.com/hooklift/gowsdl
+module github.com/galileo-pkm/gowsdl
